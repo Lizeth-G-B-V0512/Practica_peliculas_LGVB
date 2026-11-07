@@ -1,0 +1,33 @@
+:root{--bg1:#0b1f3a;--bg2:#1e5aa8;--card:#f3f8ff;--acc:#2e86de;--acc2:#1b4f9c;--txt:#10243f}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Segoe UI",system-ui,sans-serif;color:var(--txt);min-height:100vh;
+background:linear-gradient(160deg,var(--bg1),var(--bg2));background-attachment:fixed}
+header{text-align:center;color:#fff;padding:2.5rem 1rem 1rem}
+h1{margin:.2rem 0;font-size:clamp(1.8rem,5vw,3rem)}
+.autor{margin:0;opacity:.85;letter-spacing:.08em;text-transform:uppercase;font-size:.85rem}
+main{max-width:980px;margin:0 auto;padding:1rem}
+.panel{background:var(--card);border-radius:20px;padding:1.5rem;box-shadow:0 12px 30px #0005}
+label{font-weight:700;display:block;margin-top:1rem}
+input{margin-top:.4rem;padding:.7rem 1rem;font-size:1.1rem;border:2px solid #b5cdee;border-radius:12px;width:140px}
+input:focus{outline:none;border-color:var(--acc)}
+.generos{display:flex;flex-wrap:wrap;gap:.6rem;margin-top:1.2rem}
+.generos button{flex:1 1 130px;padding:.8rem;border:none;border-radius:14px;font-size:1rem;font-weight:700;
+background:#dbe9fb;color:var(--acc2);cursor:pointer;transition:.2s}
+.generos button:hover{transform:translateY(-3px);background:#c3dbf8}
+.generos button.activo{background:linear-gradient(135deg,var(--acc),var(--acc2));color:#fff;box-shadow:0 6px 14px #1b4f9c66}
+#resultado{margin-top:1.5rem}
+.titulo-res{color:#fff;font-size:1.4rem;margin:0 0 1rem}
+.aviso{background:#fff3cd;color:#664d03;padding:1rem;border-radius:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:1rem}
+.peli{background:var(--card);border-radius:18px;overflow:hidden;box-shadow:0 8px 20px #0004;animation:sube .4s both}
+.peli:hover{transform:translateY(-4px)}
+.cartel{height:90px;display:flex;align-items:center;justify-content:center;font-size:1.3rem;font-weight:700;color:#fff;letter-spacing:.15em;text-transform:uppercase;
+background:linear-gradient(135deg,#3498db,#1a3f8f)}
+.info{padding:1rem}
+.info h3{margin:0 0 .3rem}
+.meta{font-size:.85rem;color:#52709c;margin:0 0 .6rem}
+.info p{margin:0 0 .8rem;font-size:.95rem}
+.badge{display:inline-block;padding:.3rem .7rem;border-radius:999px;font-size:.78rem;font-weight:700;color:#fff;background:var(--acc2)}
+.badge.r{background:#a93226}.badge.t{background:#2874a6}
+footer{text-align:center;color:#d3e4fa;padding:2rem 1rem;font-size:.85rem}
+@keyframes sube{from{opacity:0;transform:translateY(15px)}to{opacity:1;transform:none}}

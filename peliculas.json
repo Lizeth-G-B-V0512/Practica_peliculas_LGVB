@@ -1,0 +1,116 @@
+{
+"2-12":{
+"Drama":[
+{"titulo":"Wonder","anio":2017,"director":"Stephen Chbosky","sinopsis":"Un niño con una diferencia facial enfrenta su primer año en la escuela."},
+{"titulo":"Siempre a tu lado (Hachiko)","anio":2009,"director":"Lasse Hallström","sinopsis":"Un perro espera cada día el regreso de su dueño."},
+{"titulo":"Matilda","anio":1996,"director":"Danny DeVito","sinopsis":"Una niña genio usa su poder mental contra su cruel directora."},
+{"titulo":"El rey león","anio":1994,"director":"Roger Allers y Rob Minkoff","sinopsis":"Simba debe regresar para reclamar su lugar como rey."},
+{"titulo":"Soul","anio":2020,"director":"Pete Docter","sinopsis":"Un músico descubre qué significa realmente vivir."}],
+"Comedia":[
+{"titulo":"Shrek","anio":2001,"director":"Andrew Adamson y Vicky Jenson","sinopsis":"Un ogro rescata a una princesa y encuentra un hogar inesperado."},
+{"titulo":"Mi villano favorito","anio":2010,"director":"Pierre Coffin y Chris Renaud","sinopsis":"Un villano adopta a tres niñas y su corazón cambia."},
+{"titulo":"Kung Fu Panda","anio":2008,"director":"Mark Osborne y John Stevenson","sinopsis":"Un panda torpe se convierte en el Guerrero Dragón."},
+{"titulo":"Madagascar","anio":2005,"director":"Eric Darnell y Tom McGrath","sinopsis":"Animales del zoológico terminan perdidos en la selva."},
+{"titulo":"Mi pobre angelito","anio":1990,"director":"Chris Columbus","sinopsis":"Un niño defiende su casa de dos ladrones torpes."}],
+"Musical":[
+{"titulo":"Coco","anio":2017,"director":"Lee Unkrich","sinopsis":"Miguel viaja al mundo de los muertos para descubrir su historia familiar."},
+{"titulo":"Moana","anio":2016,"director":"Ron Clements y John Musker","sinopsis":"Una joven navega el océano para salvar a su isla."},
+{"titulo":"Frozen","anio":2013,"director":"Chris Buck y Jennifer Lee","sinopsis":"Dos hermanas luchan por salvar su reino del invierno eterno."},
+{"titulo":"La bella y la bestia","anio":1991,"director":"Gary Trousdale y Kirk Wise","sinopsis":"Bella descubre el buen corazón de una bestia encantada."},
+{"titulo":"Encanto","anio":2021,"director":"Byron Howard y Jared Bush","sinopsis":"Mirabel, la única sin don mágico, intenta salvar a su familia."}],
+"Crimen":[
+{"titulo":"Zootrópolis","anio":2016,"director":"Byron Howard y Rich Moore","sinopsis":"Una coneja policía y un zorro resuelven un misterio en la ciudad."},
+{"titulo":"Basil, el ratón superdetective","anio":1986,"director":"Ron Clements y John Musker","sinopsis":"Un ratón detective persigue a un malvado genio criminal."},
+{"titulo":"Pokémon: Detective Pikachu","anio":2019,"director":"Rob Letterman","sinopsis":"Un joven y un Pikachu parlante investigan una desaparición."},
+{"titulo":"Chicken Run: Evasión en la granja","anio":2000,"director":"Peter Lord y Nick Park","sinopsis":"Unas gallinas planean escapar de una granja-prisión."},
+{"titulo":"Scooby-Doo","anio":2002,"director":"Raja Gosnell","sinopsis":"La pandilla investiga misterios en una isla de diversiones."}],
+"Ciencia Ficción":[
+{"titulo":"WALL·E","anio":2008,"director":"Andrew Stanton","sinopsis":"Un pequeño robot limpiador cambia el destino de la humanidad."},
+{"titulo":"Big Hero 6","anio":2014,"director":"Don Hall y Chris Williams","sinopsis":"Hiro y un robot inflable forman un equipo de superhéroes."},
+{"titulo":"Lilo & Stitch","anio":2002,"director":"Chris Sanders y Dean DeBlois","sinopsis":"Una niña adopta a un alienígena travieso como mascota."},
+{"titulo":"El gigante de hierro","anio":1999,"director":"Brad Bird","sinopsis":"Un niño se hace amigo de un enorme robot caído del espacio."},
+{"titulo":"Los Mitchell contra las máquinas","anio":2021,"director":"Mike Rianda","sinopsis":"Una familia inusual debe frenar un levantamiento de robots."}],
+"Terror":[
+{"titulo":"Coraline","anio":2009,"director":"Henry Selick","sinopsis":"Una niña descubre una puerta a un mundo con una madre falsa."},
+{"titulo":"Hotel Transylvania","anio":2012,"director":"Genndy Tartakovsky","sinopsis":"Drácula protege a su hija en un hotel para monstruos."},
+{"titulo":"Monster House","anio":2006,"director":"Gil Kenan","sinopsis":"Tres amigos descubren que una casa está viva."},
+{"titulo":"El extraño mundo de Jack","anio":1993,"director":"Henry Selick","sinopsis":"El rey de Halloween intenta apoderarse de la Navidad."},
+{"titulo":"Casper","anio":1995,"director":"Brad Silberling","sinopsis":"Un fantasma amistoso se hace amigo de una chica."}]
+},
+"13-17":{
+"Drama":[
+{"titulo":"Bajo la misma estrella","anio":2014,"director":"Josh Boone","sinopsis":"Dos jóvenes viven un amor intenso frente a la enfermedad."},
+{"titulo":"La sociedad de los poetas muertos","anio":1989,"director":"Peter Weir","sinopsis":"Un profesor inspira a sus alumnos a vivir con pasión."},
+{"titulo":"Escritores de la libertad","anio":2007,"director":"Richard LaGravenese","sinopsis":"Una maestra cambia la vida de sus alumnos con la escritura."},
+{"titulo":"Cadena de favores","anio":2000,"director":"Mimi Leder","sinopsis":"Un niño inicia un movimiento de buenas acciones."},
+{"titulo":"Un sueño posible","anio":2009,"director":"John Lee Hancock","sinopsis":"Una familia acoge a un joven que llega a ser estrella del fútbol."}],
+"Comedia":[
+{"titulo":"Chicas pesadas","anio":2004,"director":"Mark Waters","sinopsis":"Una chica nueva se enfrenta a las reinas de la secundaria."},
+{"titulo":"Todo en un día","anio":1986,"director":"John Hughes","sinopsis":"Ferris se salta clases para vivir el mejor día de su vida."},
+{"titulo":"Easy A","anio":2010,"director":"Will Gluck","sinopsis":"Un rumor falso cambia la reputación de una estudiante."},
+{"titulo":"Pitch Perfect","anio":2012,"director":"Jason Moore","sinopsis":"Un grupo a cappella universitario busca ganar el campeonato."},
+{"titulo":"Escuela de rock","anio":2003,"director":"Richard Linklater","sinopsis":"Un músico finge ser maestro y forma una banda con sus alumnos."}],
+"Musical":[
+{"titulo":"High School Musical","anio":2006,"director":"Kenny Ortega","sinopsis":"Dos estudiantes audicionan para el musical escolar."},
+{"titulo":"Grease","anio":1978,"director":"Randal Kleiser","sinopsis":"Un romance de verano continúa en la preparatoria."},
+{"titulo":"La La Land","anio":2016,"director":"Damien Chazelle","sinopsis":"Una actriz y un pianista persiguen sus sueños en Los Ángeles."},
+{"titulo":"Hairspray","anio":2007,"director":"Adam Shankman","sinopsis":"Una bailarina lucha por integrar un programa de TV."},
+{"titulo":"El gran showman","anio":2017,"director":"Michael Gracey","sinopsis":"P. T. Barnum crea el espectáculo circense más famoso."}],
+"Crimen":[
+{"titulo":"Atrápame si puedes","anio":2002,"director":"Steven Spielberg","sinopsis":"Un joven estafador es perseguido por un agente del FBI."},
+{"titulo":"Ocean's Eleven","anio":2001,"director":"Steven Soderbergh","sinopsis":"Once ladrones planean robar tres casinos de Las Vegas."},
+{"titulo":"Sherlock Holmes","anio":2009,"director":"Guy Ritchie","sinopsis":"Holmes y Watson enfrentan a una sociedad secreta."},
+{"titulo":"Enola Holmes","anio":2020,"director":"Harry Bradbeer","sinopsis":"La hermana de Sherlock investiga la desaparición de su madre."},
+{"titulo":"Los ilusionistas","anio":2013,"director":"Louis Leterrier","sinopsis":"Cuatro magos realizan atracos durante sus espectáculos."}],
+"Ciencia Ficción":[
+{"titulo":"Los juegos del hambre","anio":2012,"director":"Gary Ross","sinopsis":"Katniss se ofrece a participar en un torneo mortal."},
+{"titulo":"Volver al futuro","anio":1985,"director":"Robert Zemeckis","sinopsis":"Marty viaja al pasado y debe unir a sus padres."},
+{"titulo":"Star Wars: Una nueva esperanza","anio":1977,"director":"George Lucas","sinopsis":"Luke se une a la rebelión contra el Imperio."},
+{"titulo":"El corredor del laberinto","anio":2014,"director":"Wes Ball","sinopsis":"Un grupo de jóvenes busca escapar de un laberinto gigante."},
+{"titulo":"Ready Player One","anio":2018,"director":"Steven Spielberg","sinopsis":"Un joven busca un tesoro en un universo virtual."}],
+"Terror":[
+{"titulo":"Un lugar en silencio","anio":2018,"director":"John Krasinski","sinopsis":"Una familia sobrevive en silencio ante criaturas que cazan por sonido."},
+{"titulo":"Insidious","anio":2010,"director":"James Wan","sinopsis":"Un niño en coma es atrapado por espíritus."},
+{"titulo":"El aro","anio":2002,"director":"Gore Verbinski","sinopsis":"Una cinta maldita condena a quien la ve."},
+{"titulo":"Poltergeist","anio":1982,"director":"Tobe Hooper","sinopsis":"Fantasmas invaden una casa suburbana y atrapan a una niña."},
+{"titulo":"Escalofríos","anio":2015,"director":"Rob Letterman","sinopsis":"Los monstruos de los libros de terror cobran vida."}]
+},
+"18+":{
+"Drama":[
+{"titulo":"Cadena perpetua","anio":1994,"director":"Frank Darabont","sinopsis":"Un banquero condenado injustamente encuentra esperanza en prisión."},
+{"titulo":"Whiplash","anio":2014,"director":"Damien Chazelle","sinopsis":"Un joven baterista enfrenta a un profesor despiadado."},
+{"titulo":"Parásitos","anio":2019,"director":"Bong Joon-ho","sinopsis":"Una familia pobre se infiltra en la vida de una familia rica."},
+{"titulo":"Manchester junto al mar","anio":2016,"director":"Kenneth Lonergan","sinopsis":"Un hombre afronta su pasado al cuidar de su sobrino."},
+{"titulo":"Réquiem por un sueño","anio":2000,"director":"Darren Aronofsky","sinopsis":"Cuatro personas caen en el abismo de la adicción."}],
+"Comedia":[
+{"titulo":"¿Qué pasó ayer?","anio":2009,"director":"Todd Phillips","sinopsis":"Tres amigos intentan recordar una despedida de soltero caótica."},
+{"titulo":"Superbad","anio":2007,"director":"Greg Mottola","sinopsis":"Dos amigos buscan la fiesta perfecta antes de graduarse."},
+{"titulo":"La boda de mi mejor amiga","anio":2011,"director":"Paul Feig","sinopsis":"Annie intenta ser dama de honor entre desastres."},
+{"titulo":"Deadpool","anio":2016,"director":"Tim Miller","sinopsis":"Un mercenario irreverente busca vengarse de su verdugo."},
+{"titulo":"Ted","anio":2012,"director":"Seth MacFarlane","sinopsis":"Un hombre convive con su osito de peluche vivo y malhablado."}],
+"Musical":[
+{"titulo":"Cabaret","anio":1972,"director":"Bob Fosse","sinopsis":"La vida nocturna de Berlín antes del ascenso nazi."},
+{"titulo":"Sweeney Todd","anio":2007,"director":"Tim Burton","sinopsis":"Un barbero busca venganza en la Londres victoriana."},
+{"titulo":"Moulin Rouge!","anio":2001,"director":"Baz Luhrmann","sinopsis":"Un poeta se enamora de una cortesana en París."},
+{"titulo":"Nace una estrella","anio":2018,"director":"Bradley Cooper","sinopsis":"Un músico descubre a una cantante y la impulsa a la fama."},
+{"titulo":"Rocketman","anio":2019,"director":"Dexter Fletcher","sinopsis":"El ascenso y las luchas de Elton John."}],
+"Crimen":[
+{"titulo":"El padrino","anio":1972,"director":"Francis Ford Coppola","sinopsis":"La historia de la familia mafiosa Corleone en Nueva York."},
+{"titulo":"Pulp Fiction","anio":1994,"director":"Quentin Tarantino","sinopsis":"Historias entrelazadas de criminales en Los Ángeles."},
+{"titulo":"Los infiltrados","anio":2006,"director":"Martin Scorsese","sinopsis":"Un policía y un mafioso se infiltran en bandos opuestos."},
+{"titulo":"Seven","anio":1995,"director":"David Fincher","sinopsis":"Dos detectives persiguen a un asesino que usa los siete pecados."},
+{"titulo":"Goodfellas","anio":1990,"director":"Martin Scorsese","sinopsis":"El ascenso y caída de un mafioso."}],
+"Ciencia Ficción":[
+{"titulo":"Blade Runner 2049","anio":2017,"director":"Denis Villeneuve","sinopsis":"Un replicante descubre un secreto que puede cambiar la sociedad."},
+{"titulo":"Matrix","anio":1999,"director":"Hermanas Wachowski","sinopsis":"Neo descubre que su realidad es una simulación."},
+{"titulo":"Interestelar","anio":2014,"director":"Christopher Nolan","sinopsis":"Exploradores viajan por un agujero de gusano para salvar la Tierra."},
+{"titulo":"Alien, el octavo pasajero","anio":1979,"director":"Ridley Scott","sinopsis":"Una tripulación es cazada por una criatura a bordo."},
+{"titulo":"Ex Machina","anio":2014,"director":"Alex Garland","sinopsis":"Un programador evalúa la conciencia de una androide."}],
+"Terror":[
+{"titulo":"El resplandor","anio":1980,"director":"Stanley Kubrick","sinopsis":"Un escritor enloquece en un hotel aislado."},
+{"titulo":"Hereditary","anio":2018,"director":"Ari Aster","sinopsis":"Una familia descubre oscuros secretos tras una muerte."},
+{"titulo":"Eso","anio":2017,"director":"Andy Muschietti","sinopsis":"Un grupo de niños enfrenta a un payaso demoníaco."},
+{"titulo":"Déjame salir","anio":2017,"director":"Jordan Peele","sinopsis":"Un joven visita a la familia de su novia y algo no está bien."},
+{"titulo":"El exorcista","anio":1973,"director":"William Friedkin","sinopsis":"Dos sacerdotes intentan liberar a una niña poseída."}]
+}
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cine · Recomendador de películas</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>¡Bienvenidos al cine, Lizeth!</h1>
+  <p class="autor">Autora: Lizeth Guadalupe Benítez Venegas</p>
+</header>
+<main>
+  <section class="panel">
+    <p>Queremos hacer de tu visita una experiencia más placentera. Ingresa tu edad, elige el género que más te guste y te recomendamos tus películas ideales.</p>
+    <label for="edad">Tu edad</label>
+    <input type="number" id="edad" min="2" max="120" placeholder="Ej. 20">
+    <div class="generos" id="generos"></div>
+  </section>
+  <section id="resultado" aria-live="polite"></section>
+</main>
+<footer>Lizeth Guadalupe Benítez Venegas · Recomendador de películas</footer>
+<script src="app.js"></script>
+</body>
+</html>
